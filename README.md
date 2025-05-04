@@ -9,4 +9,4 @@ This is a simple random quote machine page created as part of the **Front End De
 - JavaScript
 
 ## 🔗 Live Demo
-[Click here to view the project](https://santiagog-stack.github.io/random-quote-machine/)
+[Click here to view the project](https://santiagog-stack.github.io/random-quote-program/)
